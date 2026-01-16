@@ -1,0 +1,59 @@
+* commit 7973f5b37851c1392748837e3c5e32d032bf69d9 (origin/feature-01, feature-01)
+| Author: Student <student@ucione.local>
+| Date:   Fri Jan 16 12:06:07 2026 +0100
+| 
+|     Add GitLog.txt
+| 
+* commit 41d342ae2b08216abc4ef1e7f56fa82f5d622a79
+| Author: Student <student@ucione.local>
+| Date:   Fri Jan 16 12:03:27 2026 +0100
+| 
+|     Update feature file
+| 
+* commit 92d69442a6fb2524f58aaed777ed96604d22883d
+| Author: Student <student@ucione.local>
+| Date:   Fri Jan 16 12:03:22 2026 +0100
+| 
+|     Add feature file
+| 
+* commit b31f52ec64ae635657b8c8814da329a7907a0829
+| Author: Student <student@ucione.local>
+| Date:   Fri Jan 16 10:57:55 2026 +0100
+| 
+|     Add .gitignore
+|   
+| * commit 050b4f76d1dded2c4a2d8266ce23633ea0a2d02a (HEAD -> master, origin/master, origin/HEAD)
+| | Author: lankmetic <lankmetic3@gmail.com>
+| | Date:   Fri Jan 16 11:57:24 2026 +0100
+| | 
+| |     Delete WATMS_Backlog.xlsx
+| | 
+| * commit 42249b6cb0b8b39327fb25813b44ecc3c90abc31
+| | Author: lankmetic <lankmetic3@gmail.com>
+| | Date:   Fri Jan 16 11:57:17 2026 +0100
+| | 
+| |     Delete LAN KMETIC GOAT.docx
+| | 
+| * commit a489d125a836addcfd1d962b76a774de7196e10c
+| | Author: lankmetic <lankmetic3@gmail.com>
+| | Date:   Fri Jan 16 11:57:07 2026 +0100
+| | 
+| |     Delete GOAT.txt
+| | 
+| * commit dd91d7ccb81e1a58f9d6756f9494a80f74cbbbbc
+|/  Author: lankmetic <lankmetic3@gmail.com>
+|   Date:   Fri Jan 16 11:54:30 2026 +0100
+|   
+|       Add files via upload
+| 
+* commit 2808dfee993801b2a4e8280443ffb2b3307e4b3c
+| Author: lankmetic <lankmetic3@gmail.com>
+| Date:   Thu Jan 15 12:21:35 2026 +0100
+| 
+|     Update GOAT.txt
+| 
+* commit 9934391b4c395f13c2d06ebd224f1cb7325376cc
+  Author: lankmetic <student@ucione.local>
+  Date:   Thu Jan 15 11:53:53 2026 +0100
+  
+      initial commit?
